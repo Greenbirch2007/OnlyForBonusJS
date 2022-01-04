@@ -1,0 +1,7 @@
+
+配当
+
+
+select * from js_infos_finandata where coding in (2914,6178,4502,9504,8411);
+
+
